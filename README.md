@@ -15,6 +15,6 @@
 
 
 
-![Screenshot](http://www.ibrahimarac.com/gitimages/dropper/cleanarchitect-1.png)
+![Screenshot](http://www.ibrahimarac.com/gitimages/cleanarchitect/cleanarc-1.png)
 
-![Screenshot](http://www.ibrahimarac.com/gitimages/dropper/cleanarchitect-2.png)
+![Screenshot](http://www.ibrahimarac.com/gitimages/cleanarchitect/cleanarc-2.png)
